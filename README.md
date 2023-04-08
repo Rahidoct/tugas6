@@ -8,3 +8,17 @@
 
 ## Asal Unversitas
 - STMIK IKMI Cirebon
+
+## Stack Yang Digunakan
+- Laravel UI
+- Bootstrap Auth Scafholding
+
+## Installation Instruction
+- run ```git clone https://github.com/herdikayan/laravel-login.git laravel-login```
+- Create a MySQL database for the project ```uts_gits```
+- From the projects root run ```cp .env.example .env```
+- Configure your ```.env``` file
+- Run ```composer update``` from the projects root folder
+- From the projects root folder run ```php artisan key:generate```
+- From the projects root folder run ```php artisan migrate```
+- Finish
