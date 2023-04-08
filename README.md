@@ -14,7 +14,7 @@
 - Bootstrap Auth Scafholding
 
 ## Installation Instruction
-- run ```git clone https://github.com/herdikayan/laravel-login.git laravel-login```
+- run ```git clone https://github.com/rahidoct/tugas6.git capstone-projek```
 - Create a MySQL database for the project ```uts_gits```
 - From the projects root run ```cp .env.example .env```
 - Configure your ```.env``` file
